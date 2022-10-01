@@ -1,38 +1,42 @@
-# All about Pokemon GO
+# All About Me 
 
-All the craze to catch the best pokemon in the wild. 
+## Favorite Hobbies and Pastimes
 
-## Items
+I have started piano at a young age and although sometimes it can frustrating to play the harder pieces, overall it is a fun pastime that I enjoy.
 
-Razzberry
+![Steinway-1098](https://user-images.githubusercontent.com/108604363/193426825-b85fb9f2-8e54-40b8-905f-db5b9d3f7a13.jpg)
 
-Bananna
+Reading books is just a way for my mind to wander and to past times especially when I'm really bored. My favorite genres are fantasy fiction and sci-fi.
 
-Pinap Berry
+![51PRKKi2BuL _AC_SY780_](https://user-images.githubusercontent.com/108604363/193426943-aa52df8b-41f0-4f9f-815a-ec3ea2f167c4.jpg)
 
-Golden Razzberry
-
-Silver Pinap Berry
-
-Incubator
-
-Super Incubator
-
-Revive
-
-Ultra potion
-
-## Pokestops
-
-You can spin pokestop chips multiple times in a day to get rewards. 
+![tor-teen-the-ender-quintet-01-enders-game](https://user-images.githubusercontent.com/108604363/193426988-83d3a923-bcf5-4698-a5c3-efd28a474e3b.jpg)
 
 
-## Team Rocket GO
+I am an atheltic person and I love playing any type of sport. I love team spirit and the bond that we share as we play together.
 
-Team Rocket GO grunts show up periodically at pokestops or in hot-air balloon. Sometimes Team Rocket leaders would show up, but you can see where the leaders are using the rocket radar which can be assembled once you have collected six fragments which are dropped after winning a battle against a Team Rocket GO grunt. After you win, you can also have a chance to catch a pokemon that the leader or grunt left behind, but you have to use special pokeballs that are calculated by your achievements and the number of pokemon left still alive after the battle.
 
-## Buddies
+I started getting into collecting keychains after noticing that I have a sort of attraction to getting sourvenir keychains wherever I visited. I especially love my Taiepei 101 keychain, a space shuttle keychain, and my national park keychains, Yosemite National Park and Zion National Park to name a few I have been to.
 
-It is recommended to add a buddy because they can improve their rating and it gives you rewards every time you upgrade your buddy status.
+![image](https://user-images.githubusercontent.com/108604363/193427045-869aeff2-d2c4-4678-b671-863ab5e7c06f.png)
 
-##
+
+
+
+## Favorite Foods and Drinks
+
+My favorite foods are pizza from Dominoes and spaghetti from Macaroni Grill. If I was to rank them, I would say pizza over spaghetti. I also love ice cream and my favorite flavors are strawberry and choclate.
+
+![image](https://user-images.githubusercontent.com/108604363/193427076-ef9a440e-3f73-4a33-a3e7-f9919eee34b2.png)
+
+![image](https://user-images.githubusercontent.com/108604363/193427088-f9ddef45-979e-4cf8-a5b2-d0db35e87ef0.png)
+
+
+
+My favorite beverage would be fruit juice. I don't care what type of fruit, but I really enjoy guave juice because of the sweet flavor.
+
+![image](https://user-images.githubusercontent.com/108604363/193427108-1166823b-72e4-455a-903f-007d95c28b63.png)
+
+## Favorite Game
+
+My favorite game is Brawl Stars. Visit Brawl Star's homepage [here](https://supercell.com/en/games/brawlstars/).
