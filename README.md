@@ -1,3 +1,5 @@
+theme: Midnight
+
 # All About Me 
 
 ## Favorite Hobbies and Pastimes
