@@ -1,12 +1,13 @@
 # All About Me 
 
+
 ## Favorite Hobbies and Pastimes
 
 I have started piano at a young age and although sometimes it can frustrating to play the harder pieces, overall it is a fun pastime that I enjoy.
 
 ![Steinway-1098](https://user-images.githubusercontent.com/108604363/193426825-b85fb9f2-8e54-40b8-905f-db5b9d3f7a13.jpg)
 
-Reading books is just a way for my mind to wander and to past times especially when I'm really bored. My favorite genres are fantasy fiction and sci-fi.
+Reading books 📚 is just a way for my mind to wander and to past times especially when I'm really bored. My favorite genres are fantasy fiction and sci-fi.
 
 ![51PRKKi2BuL _AC_SY780_](https://user-images.githubusercontent.com/108604363/193426943-aa52df8b-41f0-4f9f-815a-ec3ea2f167c4.jpg)
 
@@ -25,7 +26,7 @@ I started getting into collecting keychains after noticing that I have a sort of
 
 ## Favorite Foods and Drinks
 
-My favorite foods are pizza from Dominoes and spaghetti from Macaroni Grill. If I was to rank them, I would say pizza over spaghetti. I also love ice cream and my favorite flavors are strawberry and choclate.
+My favorite foods are pizza 🍕 from Dominoes and spaghetti 🍝 from Macaroni Grill. If I was to rank them, I would say pizza over spaghetti. I also love ice cream 🍨 and my favorite flavors are strawberry and choclate.
 
 ![image](https://user-images.githubusercontent.com/108604363/193427076-ef9a440e-3f73-4a33-a3e7-f9919eee34b2.png)
 
@@ -33,9 +34,15 @@ My favorite foods are pizza from Dominoes and spaghetti from Macaroni Grill. If 
 
 
 
-My favorite beverage would be fruit juice. I don't care what type of fruit, but I really enjoy guave juice because of the sweet flavor.
+My favorite beverage would be fruit juice 🍹. I don't care what type of fruit, but I really enjoy guave juice because of the sweet flavor.
 
 ![image](https://user-images.githubusercontent.com/108604363/193427108-1166823b-72e4-455a-903f-007d95c28b63.png)
+
+
+
+
+
+
 
 ## Favorite Game
 
